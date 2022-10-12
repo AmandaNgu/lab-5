@@ -5,30 +5,32 @@
 
 /*Import the Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&family=Silkscreen&display=swap');
+
 /* End of Fonts */
-*{
-   
-}
+* {}
 
 /* Designing header section */
-.main-header-titles h1{
-    font-family:'Silkscreen', sans-serif;
+.main-header-titles h1 {
+    font-family: 'Silkscreen', sans-serif;
     font-size: 3.5em;
-    color: rgb(76, 115, 79) ;
-    text-align: center;   
+    color: rgb(76, 115, 79);
+    text-align: center;
 }
-.main-header-titles h2{
-    font-family:'Gemunu+Libre', serif;
+
+.main-header-titles h2 {
+    font-family: 'Gemunu+Libre', serif;
     font-size: 1.5em;
     text-align: center;
 }
-.main-header-titles p{
-    font-family:'Gemunu+Libre', serif;
+
+.main-header-titles p {
+    font-family: 'Gemunu+Libre', serif;
     font-size: 1.3em;
     text-align: center;
 }
-.main-header-titles img{
-    width: 300px; 
+
+.main-header-titles img {
+    width: 300px;
     float: left;
     margin-right: 0.2em;
 }
@@ -36,34 +38,31 @@
 /*Designing Main pharagraph section*/
 .main-section {
     margin-left: auto;
-    margin-right: auto; 
+    margin-right: auto;
     width: 80%;
-    border:1px solid rgb(76, 115, 79);
+    border: 1px solid rgb(76, 115, 79);
     padding: 20px;
-    border-radius: 30px;   
+    border-radius: 30px;
     float: right;
 }
 
-.main-section h3{
+.main-section h3 {
     font-size: 1.5em;
 }
-.main-section h4{
+
+.main-section h4 {
     font-size: 1.2em;
 }
 
 /*Unable to comprehend nth child concept, used other method*/
-.second{
-    color:#B22222;
+.second {
+    color: #B22222;
 }
-.first{
+
+.first {
     background-color: #8FBC8F;
 }
-.third{
+
+.third {
     background-color: #8FBC8F;
 }
-
-
-
-
-
-
